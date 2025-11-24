@@ -13,8 +13,8 @@ from datetime import timedelta
 # TS_CSV = "/kaggle/working/outputs/cleaned_bbc_step3.csv"
 # EVENTS_CSV = "/kaggle/working/outputs/blowdown_events_clean.csv"
 # If using Colab, replace paths with:
-TS_CSV = "/content/outputs/cleaned_bbc_step3.csv"
-EVENTS_CSV = "/content/outputs/events_table_for_presentation.csv" # Corrected path to load enriched events
+TS_CSV = "data/cleaned_bbc_step3.csv"
+EVENTS_CSV = "data/events_table_for_presentation.csv" # Corrected path to load enriched events
 
 # -------------------------
 # HELPERS
